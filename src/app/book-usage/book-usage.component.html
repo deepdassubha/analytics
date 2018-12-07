@@ -1,0 +1,53 @@
+<div class="clearfix"></div>
+
+<div class="container">
+
+    <h3>Book Usage Report
+        <span class="report-text">(Report Planned for POC)</span>
+    </h3>
+
+    <!--filter table-->
+    <app-filter-panel (onFilterDataChange)="filterDataChangeHandler($event)"></app-filter-panel>
+
+    <table class="table table-bordered data-table">
+        <thead class="thead-dark">
+            <tr>
+                <th>Book</th>
+                <th>
+                    <i class="fa fa-arrow-down"></i> Unique Users</th>
+                <th>Repeat Users</th>
+                <th>New Users</th>
+                <th>No of Sessions</th>
+                <th>Avg TimeSpent per Unique User</th>
+            </tr>
+        </thead>
+        <tbody id="data-rows">
+            <tr *ngFor="let item of data">
+                <td>{{item.book}}</td>
+                <td>{{item.unique_users}}</td>
+                <td>{{item.repeat_users}}</td>
+                <td>{{item.new_users}}</td>
+                <td>{{item.no_of_session}}</td>
+                <td>{{item.avg_time_spent}}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="pagination-panel">
+        <div class="main-content">
+            Items per page
+            <select (change)="changePagination($event.target.value)">
+                <option [value]="pages" *ngFor="let pages of paginationOptions" [selected]="dataPerPage===pages">{{pages}}</option>
+            </select>
+            &nbsp;
+            <span>{{currentPageNO+1}} of {{totalPages}}</span>
+            &nbsp;
+            <button (click)="prevPage()">
+                <</button>
+                    &nbsp;
+                    <button (click)="nextPage()">></button>
+
+        </div>
+    </div>
+
+</div>

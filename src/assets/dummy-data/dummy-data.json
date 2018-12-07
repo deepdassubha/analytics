@@ -1,0 +1,450 @@
+[
+  {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 2",
+    "unique_users": "17",
+    "repeat_users": "5",
+    "new_users": "7",
+    "no_of_session": "37",
+    "avg_time_spent": "8:09:35"
+  },
+  {
+    "book": "The poets of the fall",
+    "unique_users": "140",
+    "repeat_users": "100",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The Physics",
+    "unique_users": "17",
+    "repeat_users": "15",
+    "new_users": "3",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  },
+ {
+    "book": "Jungle jar interjection",
+    "unique_users": "6",
+    "repeat_users": "4",
+    "new_users": "2",
+    "no_of_session": "11",
+    "avg_time_spent": "0:49:40"
+  },
+  {
+    "book": "The chipmunks",
+    "unique_users": "5",
+    "repeat_users": "3",
+    "new_users": "4",
+    "no_of_session": "9",
+    "avg_time_spent": "2:34:27"
+  },
+  {
+    "book": "The end of world war 1",
+    "unique_users": "14",
+    "repeat_users": "12",
+    "new_users": "5",
+    "no_of_session": "17",
+    "avg_time_spent": "1:09:35"
+  }
+]

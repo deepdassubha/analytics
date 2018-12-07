@@ -1,0 +1,44 @@
+<table class="table data-filter">
+  <tr>
+      <td>
+          <div class="filter-item">
+              Report Duration
+              <br/>
+              <select class="filter-item-select" (change)="filterByReport($event.target.value)">
+                  <option value="today">Today</option>
+                  <option value="last7days">Last 7 Days</option>
+                  <option value="last15days">Last 15 Days</option>
+                  <option value="last30days">Last 30 Days</option>
+                  <option value="ytd">YTD</option>
+                  <option value="customdate">Custom Date</option>
+              </select>
+          </div>
+      </td>
+      <td>
+          <div class="filter-item">
+              Year
+              <br/>
+              <select class="filter-item-select" [disabled]="yearDisabled" [ngStyle]="yearStyle">
+                  <option>2017</option>
+                  <option>2018</option>
+                  <option>2019</option>
+                  <option>2020</option>
+              </select>
+          </div>
+      </td>
+      <td>
+          <div class="filter-item">
+              From
+              <br/>
+              <input type="date" class="filter-item-date" [disabled]="fromDate" [ngStyle]="fromStyle" (change)="filterByFromDate($event.target.value)"/>
+          </div>
+      </td>
+      <td>
+          <div class="filter-item">
+              To
+              <br/>
+              <input type="date" class="filter-item-date" [disabled]="toDate" [ngStyle]="toStyle" (change)="filterByToDate($event.target.value)"/>
+          </div>
+      </td>
+  </tr>
+</table>

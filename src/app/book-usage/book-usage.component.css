@@ -1,0 +1,44 @@
+.container{
+    /* width: 750px; */
+    width: 75%;
+}
+
+.clearfix{
+    margin-top: 2%;
+}
+
+.report-text{
+    color: rgb(143, 205, 103);
+}
+
+.data-table{
+    margin-top: 2%;
+    border: 2px solid !important;
+    table-layout:fixed;
+}
+
+.data-table, th, td{
+    border: 1px solid rgba(136, 126, 126, 0.4) ;
+}
+
+
+
+
+tbody tr{
+    height: 70px;
+}
+
+.pagination-panel{
+    height:50px;
+}
+
+.main-content{
+    float:right;
+    height:100%;
+    width:35%;
+    text-align:left;
+}
+
+/* table, th, td {
+    border: 1px solid rgba(136, 126, 126, 0.4) ;
+} */
